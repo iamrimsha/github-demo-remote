@@ -17,4 +17,9 @@ def add(x,y):
 #Square 
  def square(x):
   return x*x
+   
+ def total():
+   pass
+ 
+
  
